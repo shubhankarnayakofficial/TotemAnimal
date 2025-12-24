@@ -1,0 +1,1 @@
+export const questions=[{q:'When conflict arises, you instinctively…',options:['Confront','Observe','Stabilise','Withdraw']}];

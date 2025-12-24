@@ -1,0 +1,1 @@
+import {animalVectors} from './animalVectors';import {answerMap} from './answerMap';export function calculateTotem(a){return 'Tiger';}

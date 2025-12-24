@@ -1,0 +1,1 @@
+export const animalVectors={Tiger:{Dominance:3,Action:3,Independence:3}};

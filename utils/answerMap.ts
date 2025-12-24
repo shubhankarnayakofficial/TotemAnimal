@@ -1,0 +1,1 @@
+export const answerMap={Confront:{Dominance:2,Action:1}};

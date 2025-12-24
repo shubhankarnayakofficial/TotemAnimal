@@ -1,0 +1,1 @@
+export default [{name:'Tiger',title:'The Autonomous Force',image:'/animals/tiger.webp',description:'You are built for independence.'}];
