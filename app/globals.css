@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Organic base styling */
+html, body {
+  padding: 0;
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #F7F5F2;
+  color: #2B2B2B;
+}
+
+* {
+  box-sizing: border-box;
+}
